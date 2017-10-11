@@ -1,0 +1,7 @@
+django
+django-storages
+moviepy
+django-google-cloud-storage-lite
+django-hashedfilenamestorage
+jinja2
+requests
